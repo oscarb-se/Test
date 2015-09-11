@@ -1,5 +1,2 @@
 HelloGitHub
 ===========
-
-
-Information
